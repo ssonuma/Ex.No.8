@@ -165,12 +165,6 @@ As the technology behind text-to-image generation models advances, we can expect
 
 ---
 
-## References:
-- [DALL·E by OpenAI](https://openai.com/dall-e)
-- [Stable Diffusion](https://stablediffusionweb.com)
-- [MidJourney](https://www.midjourney.com)
-- Research papers and articles on AI and image generation models.
-
 
 ## Deliverables:
 1.	The Original Image: Provided image for reference.
